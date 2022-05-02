@@ -1,0 +1,33 @@
+Please check the topic name for the respective links
+========================================================================
+Introduction to Deep Learning / Weight Initialiser   
+
+https://github.com/christianversloot/machine-learning-articles/blob/main/about-loss-and-loss-functions.md
+========================================================================
+
+Practical case of MLP /  Handwritten number recognition using Keras part 1
+
+https://github.com/lutzroeder/netron
+
+=========================================================================
+
+Implementing Object Detection 
+
+ TFOD on custom data-
+  https://c17hawke.github.io/tfod-setup/
+
+ YOLO training on custom data in local system.-
+https://colab.research.google.com/drive/1Pz5L28XELnQJQ9l0SbQd_4GmGsMV8llH?usp=sharing
+
+===========================================================================
+Notes for below projects are uploaded in the repository please check accordingly.
+
+Sentiment analysis using LSTM
+Language Translation English to French
+Image Captioning
+Text OCR
+Speech to Text
+Text to Speech
+
+
+
